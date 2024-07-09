@@ -1,0 +1,4 @@
+myname,mymail,9887465,1001,5 Star,10,10,100,Sun Jun 23 10:35:04 2024
+Yuvraj,dfsf@w47,9899434,1002,Bar-One,10,10,100,Sun Jun 23 10:41:14 2024
+sandy,mymail,96866,1005,Blackberry-Cake,1,650,650,Sun Jun 23 10:43:19 2024
+Yuvi,sjdkjsh@8764,38479r6t9,1004,Chocolate-Cake,5,550,2750,Sun Jun 23 11:06:06 2024
